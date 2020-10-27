@@ -1,0 +1,26 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "postcss tailwind.css -o css/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarcalderon7/cesarcalderon7.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarcalderon7/cesarcalderon7.github.io/issues"
+  },
+  "homepage": "https://github.com/cesarcalderon7/cesarcalderon7.github.io#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8.1.4",
+    "postcss-cli": "^8.1.0",
+    "tailwindcss": "^1.9.6"
+  }
+}
