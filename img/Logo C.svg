@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="73.4mm" height="73.4mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 73.4 73.4"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {
+      stroke:#2B2A29;
+      stroke-width:0.0762
+    }
+    .str0 {
+      stroke:#C5C6C6;
+      stroke-width:2.8222
+    }
+    .fil3 {
+      fill:#C5C6C6
+    }
+    .fil2 {
+      fill:transparent;
+      -webkit-animation: blanco 2s forwards;
+    }
+    .fil0 {
+      fill:transparent;
+      -webkit-animation: gris 2s forwards 2s;
+    }
+    .fil1 {
+      fill:transparent;
+      -webkit-animation: azul 2s forwards 1s;
+    }
+
+
+    @keyframes blanco {
+       from{
+          fill: transparent;
+      }
+      to{
+        fill : #FEFEFE;
+      }
+    }
+
+    @keyframes azul {
+       from{
+          fill: transparent;
+      }
+      to{
+        fill : #499EC9;
+      }
+    }
+
+    @keyframes gris {
+       from{
+          fill: transparent;
+      }
+      to{
+        fill : #2E495C;
+      }
+    }  
+
+
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+
+  <polygon id="Gris" class="fil0 str0" points="1.7705,54.1001 36.7705,71.6 71.7704,54.1001 71.7704,19.0999 36.7705,1.6 1.7705,19.0999 "/>
+
+  <polygon id="Azul" class="fil1 str1" points="63.3862,23.6004 36.7703,10.3714 10.1546,23.6004 10.1546,50.0588 36.7703,63.2879 63.3862,50.0588 "/>
+
+  <polygon id="C" class="fil2" points="27.6842,32.2304 36.7937,27.6918 45.7736,32.1745 54.5962,27.6708 36.794,18.6066 18.5941,27.6181 18.5237,45.7188 36.7673,54.5934 54.7763,45.8009 45.7569,41.3071 36.8765,45.7521 27.6513,41.182 "/>
+
+  <polygon id="Pico" class="fil3" points="24.4276,7.7347 36.8118,14.4342 36.8314,14.4447 49.1764,7.7662 36.7705,1.5999 "/>
+
+  <ellipse class="fil0" cx="36.802" cy="8.0223" rx="2.73347" ry="2.34503"/>
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve"  style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1000 731.707"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#2B2A29;stroke-width:0.265505}
+    .str2 {stroke:#2B2A29;stroke-width:0.696864}
+    .str0 {stroke:#C5C6C6;stroke-width:9.83345}
+    .fil3 {fill:#C5C6C6}
+    .fil2 {fill:#FEFEFE}
+    .fil0 {fill:#2E495C}
+    .fil1 {fill:#499EC9}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon id="Gris" class="fil0 str0" points="331.01,339.722 452.962,400.697 574.913,339.722 574.913,217.77 452.962,156.794 331.01,217.77 "/>
+  <polygon id="Azul" class="fil1 str1" points="545.699,233.451 452.961,187.357 360.223,233.451 360.223,325.64 452.961,371.735 545.699,325.64 "/>
+  <polygon id="C" class="fil2" points="421.302,263.521 453.043,247.707 484.331,263.326 515.072,247.633 453.044,216.051 389.629,247.45 389.384,310.518 452.951,341.44 515.7,310.805 484.273,295.147 453.331,310.634 421.187,294.711 "/>
+  <polygon id="Pico" class="fil3" points="409.955,178.17 453.106,201.513 453.174,201.549 496.188,178.279 452.962,156.794 "/>
+  <ellipse class="fil0 str2" cx="453.071" cy="179.172" rx="9.52429" ry="8.17084"/>
+ </g>
+</svg>
