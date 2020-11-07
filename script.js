@@ -1,8 +1,3 @@
-// if ('serviceWorker' in navigator) {
-//   navigator.serviceWorker.register('./sw.js')
-//     .then(reg => console.log('Registro de SW exitoso', reg))
-//     .catch(err => console.warn('Error al tratar de registrar el sw', err))
-// }
 
 
 $(document).ready(function(){
@@ -22,7 +17,7 @@ $(document).ready(function(){
 	});
 });
 
-// window.addEventListener("load", function(){
-// 	const loader = document.querySelector(".loader");
-// 	loader.className += " hidden";
-// });
+window.addEventListener("load", function(){
+	const loader = document.querySelector(".loader");
+	loader.className += " hiddenLoader";
+});

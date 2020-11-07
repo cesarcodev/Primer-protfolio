@@ -1,8 +1,4 @@
-@media(min-width:1024px){
-	#navegacion{
-		display:inline-flex !important;
-	}
-}
+
 
 .loader{
 	position:fixed;
@@ -16,7 +12,7 @@
 	align-items:center; 
 }
 
- .hidden{
+ .hiddenLoader{
 	animation:faceOut 1s;
 	animation-fill-mode: forwards;
 }
@@ -28,3 +24,8 @@
 	}
 } 
 
+@media(min-width:1024px){
+	#navegacion{
+		display:inline-flex !important;
+	}
+}
