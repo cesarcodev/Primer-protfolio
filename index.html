@@ -7,18 +7,20 @@
     <title>César Castañeda</title>
   
       <link rel="stylesheet" type="text/css" href="css/tailwind.css">
-       <link rel="stylesheet" type="text/css" href="css/style.css">      
+       <link rel="stylesheet" type="text/css" href="css/style.css">  
+         <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+         <script src="https://kit.fontawesome.com/a348223d5d.js" crossorigin="anonymous"></script>
   </head>
   <body>
-    <div class="loader bg-gray-800 flex-col">
+<!--     <div class="loader bg-gray-800 flex-col">
       <img src="./img/Logo C.svg" class="w-32 h-32">
       <span class="ml-2 text-2xl text-white font-bold ">César Castañeda</span>
-    </div>
+    </div> -->
     
   
 
-<nav class="flex items-center bg-gray-800 p-3 flex-wrap ">
-  <div class="lg:ml-20 inline-flex items-center">
+<nav class="flex items-center bg-gray-800 p-3 flex-wrap h-20 w-full fixed shadow-xl">
+  <div class="lg:ml-20 inline-flex items-center ">
      
      <img src="./img/LogoC.png" class="w-12 h-12">
 
@@ -40,7 +42,7 @@
       <div class=" lg:inline-flex lg:flex-row lg:ml-auto flex flex-col font-bold" >
               <a href="#" class="lg:inline-flex lg:w-auto px-3 py-2 rounded text-gray-400 hover:text-white hover:bg-gray-900">Inicio</a>
 
-              <a href="#" class="g:inline-flex lg:w-auto px-3 py-2 rounded text-gray-400 hover:text-white hover:bg-gray-900">¿Quien soy yo?</a>
+              <a href="#quiensoy" class="g:inline-flex lg:w-auto px-3 py-2 rounded text-gray-400 hover:text-white hover:bg-gray-900">Sobre mi</a>
 
               <a href="#" class="g:inline-flex lg:w-auto px-3 py-2 rounded text-gray-400 hover:text-white hover:bg-gray-900">Habilidades</a>
 
@@ -55,16 +57,40 @@
 </nav>
 
 <main>
-  <div class="w-full  lg:inline-flex justify-around">
+  <div class="w-full  lg:inline-flex justify-around mt-20">
+     <div class="lg:w-1/2">
+      <div class="w-3/4 m-auto lg:my-32 ">
+        <div class="flex">
+          <h3 class="text-3xl font-bold uppercase ">Hola</h3>
+          <div class=" my-auto ml-4 h-1 w-full bg-blue-800"></div>
+        </div>
+        
+        <h3 class="text-4xl font-extrabold uppercase mb-4 leading-none">Mi nombre es <br> César Castañeda</h3>
+        <div class="h-1 w-full bg-blue-800"></div>
+       <h3 class="text-2xl font-bold uppercase ">Programador Full STACK WEB</h3>
+      </div>
+          </div>
     <div class="lg:w-1/2 content-center ">
-      <img src="./img/cc.png" class="w-3/5 mx-auto my-5 ">
+      <img src="./img/cc.png" class="w-9/12 mx-auto my-10 ">
     </div>
-    <div class="lg:w-1/2   items-center ">
-      Soy César
+  </div>
+
+  <div id="#quiensoy" class="w-full bg-gray-800 h-auto  p-12">
+    <p class="text-4xl text-center  text-white font-bold">Sobre mí</p>
+    <p class="text-gray-100 mt-4 mx-20 text-justify text-xl">Licenciado en Computación con 2 años de experiencia en desarrollo web. Tengo conocimientos sólidos de PHP y herramientas tales como LARAVEL cuales ayudan con la creación de aplicaciones web. Soy una persona con fácil adaptación con cualquier entorno social, aspiro aportar mis habilidades y conocimientos como también aprender de ustedes con una mejora continua las buenas practicas y diferentes conceptos dentro del desarrollo.</p>
+    <div class="w-full mt-10 text-center space-x-5">
+
+      <a href="https://www.instagram.com/cesarcalderon7" title=""><i class="fab fa-instagram text-3xl text-white "></i></a>
+
+      <a href="http://www.linkedin.com/in/cacesar07" title=""><i class="fab fa-linkedin text-3xl text-white"></i></a>
+
+      <a href="https://www.facebook.com/cesar.castaneda.3152" title=""><i class="fab fa-facebook text-3xl text-white"></i></a>
+
+      <a href="https://github.com/cesarcalderon7" title=""><i class="fab fa-github text-3xl text-white"></i></a>   
+      
     </div>
   </div>
 </main>
-
 <script src="./jquery.min.js"></script>
     <script src="./script.js"></script>
   </body>

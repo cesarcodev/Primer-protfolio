@@ -17,7 +17,7 @@ $(document).ready(function(){
 	});
 });
 
-window.addEventListener("load", function(){
-	const loader = document.querySelector(".loader");
-	loader.className += " hiddenLoader";
-});
+// window.addEventListener("load", function(){
+// 	const loader = document.querySelector(".loader");
+// 	loader.className += " hiddenLoader";
+// });
